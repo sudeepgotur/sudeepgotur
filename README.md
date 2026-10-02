@@ -42,7 +42,7 @@ actual hardware designs.
 - Logic Synthesis
 - Static Timing Analysis
 - ASIC Design Flow
-- RTL-to-GDS Flow
+- RTL-to-Synthesis Flow
 
 ### Analog VLSI
 
@@ -75,7 +75,7 @@ actual hardware designs.
 ### ASIC & VLSI
 
 - Yosys
-- Static Timing Analysis
+- OpenSTA
 - ASIC Design Flow
 - Timing Constraints
 - NanGate 45nm Open Cell Library
@@ -98,6 +98,7 @@ actual hardware designs.
 
 ---
 
+
 ## 📚 Currently Learning & Applying
 
 My current focus is **RTL-to-Synthesis and Static Timing Analysis**, with future progression toward **power analysis and physical design**.
@@ -114,38 +115,41 @@ I continuously apply what I learn through practical work with:
 - Digital VLSI concepts
 - Analog VLSI concepts
 
-I am particularly interested in understanding how a design moves
-from **RTL → Synthesis → Timing Analysis → Physical Implementation**.
+I am particularly interested in understanding how a design progresses from
+**RTL → Synthesis → Timing Analysis → Physical Design**, and I plan to
+extend my current workflow toward power analysis and GDS generation.
 
 ---
 
 ## 🚀 Featured VLSI Projects
 
-### 🔹 Verilog Practice
+### 🔹 [Verilog Practice](https://github.com/sudeepgotur/Verilog-Practice)
 
-A growing collection of Verilog HDL practice covering digital design
-concepts, RTL implementation, testbenches, simulation, synthesis,
-and timing analysis.
+Hands-on Verilog HDL practice covering RTL design, testbench development,
+functional simulation, waveform analysis, RTL synthesis, and static timing analysis.
 
-**Focus:** Verilog • RTL • Simulation • Synthesis • STA
+**Flow:** Verilog RTL → Icarus Verilog → GTKWave → Yosys → OpenSTA
+
+**Focus:** RTL Design • Digital VLSI • Synthesis • STA
 
 ---
 
 ### 🔹 32-bit Array Multiplier — Cadence Virtuoso
 
-Designed and functionally simulated a **32-bit array multiplier**
-using Half Adders and Full Adders in Cadence Virtuoso.
+Designed and functionally simulated a 32-bit array multiplier using
+Half Adders and Full Adders in Cadence Virtuoso.
 
-**Focus:** Digital VLSI • Arithmetic Circuits • Cadence Virtuoso
-• Schematic Design • Simulation
+**Focus:** Digital VLSI • Arithmetic Circuits • Cadence Virtuoso •
+Schematic Design • Functional Simulation
 
 ---
 
 
 ## 🤖 Embedded & Hardware Projects
 
-My primary career focus is VLSI, while my embedded and robotics
-projects provide additional hands-on hardware design experience.
+My primary career focus is VLSI design. My embedded and robotics projects
+provide additional hands-on experience in hardware design, microcontrollers,
+sensor interfacing, and system-level implementation.
 
 ### 🔹 SpruceBot — Automatic Dust-Collecting Robot
 
@@ -172,28 +176,33 @@ and motor control.
 
 ## 🌱 Career Goal
 
-My goal is to become an industry-ready **VLSI Design Engineer** with
-strong foundations in:
+My goal is to become an industry-ready **VLSI Design Engineer** with strong
+foundations in **RTL design, digital VLSI, ASIC design flow, and analog IC design**.
 
-- RTL / Digital Design
-- ASIC Design
-- Logic Synthesis
-- Static Timing Analysis
-- RTL-to-GDS Flow
-- Digital VLSI
-- Analog IC Design
+I am currently strengthening my practical skills through hands-on work in:
 
-I am actively looking for **VLSI internship and entry-level
-opportunities**.
+- Verilog RTL design
+- RTL simulation and verification
+- Logic synthesis using Yosys
+- Static Timing Analysis using OpenSTA
+- Timing constraints and technology libraries
+- Digital VLSI and CMOS fundamentals
+- Cadence Virtuoso-based circuit design
+
+My current focus is on building a strong foundation in the **RTL → Synthesis → STA**
+flow, with future progression toward **power analysis and physical design**.
+
+I am actively looking for **VLSI internships and entry-level opportunities**.
 
 ---
 
 ## 📊 GitHub
 
-I use GitHub to document my learning, RTL implementations,
-VLSI projects, experiments, and hardware projects.
+I use GitHub as a technical portfolio to document my **RTL designs,
+VLSI experiments, simulation results, synthesis work, and timing analysis**.
 
-I regularly update my repositories as I learn and apply new concepts.
+I regularly update my repositories as I learn and apply new concepts,
+with a focus on building practical skills for a career in VLSI design.
 
 ---
 
