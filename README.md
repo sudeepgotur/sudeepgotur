@@ -1,14 +1,15 @@
 <div align="center">
 
-<img src="YOUR_BANNER_URL" width="100%">
-
-# Sudeep Gotur
-
-### Aspiring VLSI Design Engineer
-
-**RTL Design • Digital VLSI • Analog IC Design**
+<p align="center">
+  <img src="vlsi-banner.png" alt="Sudeep Gotur - VLSI Design Engineer" width="100%">
+</p>
 
 </div>
+
+# Sudeep Gotur — Aspiring VLSI Design Engineer
+
+**RTL Design • Digital VLSI • ASIC Design Flow • Analog IC Design**
+
 
 ---
 
@@ -98,7 +99,7 @@ actual hardware designs.
 
 ## 📚 Currently Learning & Applying
 
-My current focus is **RTL-to-GDS implementation**.
+My current focus is **RTL-to-Synthesis and Static Timing Analysis**, with future progression toward **power analysis and physical design**.
 
 I continuously apply what I learn through practical work with:
 
@@ -139,15 +140,6 @@ using Half Adders and Full Adders in Cadence Virtuoso.
 
 ---
 
-### 🔹 RTL-to-GDS / ASIC Design Practice
-
-Hands-on practice with the digital ASIC design flow, starting from
-RTL and progressing through synthesis and static timing analysis.
-
-**Focus:** RTL • Yosys • Synthesis • STA • Timing Constraints
-• ASIC Design Flow
-
----
 
 ## 🤖 Embedded & Hardware Projects
 
