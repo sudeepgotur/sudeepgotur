@@ -76,8 +76,8 @@ actual hardware designs.
 
 - Yosys
 - Static Timing Analysis
-- RTL-to-GDS Flow
-- OpenLane
+- ASIC Design Flow
+- Timing Constraints
 - NanGate 45nm Open Cell Library
 
 ### EDA & Engineering Tools
@@ -85,9 +85,10 @@ actual hardware designs.
 - Cadence Virtuoso
 - Xilinx Vivado
 - MATLAB
+- EasyEDA
+- Arduino IDE
 - Falstad Circuit Simulator
 - Wokwi
-- Tinkercad
 
 ### Programming
 
