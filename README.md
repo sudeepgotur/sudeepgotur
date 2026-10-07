@@ -134,7 +134,7 @@ functional simulation, waveform analysis, RTL synthesis, and static timing analy
 
 ---
 
-### 🔹 32-bit Array Multiplier — Cadence Virtuoso
+### 🔹 [32-bit Array Multiplier — Cadence Virtuoso](https://github.com/sudeepgotur/32-bit-Array-Multiplier-Cadence)
 
 Designed and functionally simulated a 32-bit array multiplier using
 Half Adders and Full Adders in Cadence Virtuoso.
@@ -151,21 +151,21 @@ My primary career focus is VLSI design. My embedded and robotics projects
 provide additional hands-on experience in hardware design, microcontrollers,
 sensor interfacing, and system-level implementation.
 
-### 🔹 SpruceBot — Automatic Dust-Collecting Robot
+### 🔹 [SpruceBot — Automatic Dust-Collecting Robot](https://github.com/sudeepgotur/SpruceBot-Automatic-Dust-Collecting-Robot)
 
 Autonomous dust-collecting robot using Arduino Mega, ESP8266,
 ultrasonic sensors, IR sensors and DC motor control.
 
 **Technologies:** Arduino • ESP8266 • Sensors • Motor Control
 
-### 🔹 Body Posture Monitor
+### 🔹 [Body Posture Monitor](https://github.com/sudeepgotur/Body-Posture-Monitor-for-desk-workers)
 
 Real-time desk posture monitoring system using ESP32, MPU6050,
 I²C LCD and vibration-based alerts.
 
 **Technologies:** ESP32 • MPU6050 • I²C • Embedded Systems
 
-### 🔹 Autonomous Line-Following Robot
+### 🔹 [Autonomous Line-Following Robot](https://github.com/sudeepgotur/Autonomous-Line-Following-Robot)
 
 Four-wheel autonomous robot using IR sensors for line detection
 and motor control.
